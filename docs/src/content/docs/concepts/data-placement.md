@@ -66,7 +66,7 @@ For compliance-driven cases (an account that must legally remain in the EU), use
 For accounts that move geographically (someone who travels for half the year), **`auto`** lets Cloudflare pick at first deploy. The placement does not follow the account afterward.
 
 :::note[FedRamp support]
-If you are a government user and need to deploy deploy your PDS to a FedRamp region, contact [Matt Kane](https://bsky.app/profile/mk.gg) for custom support.
+If you are a government user and need to deploy your Cirrus PDS to a FedRamp region, contact [Matt Kane](https://bsky.app/profile/mk.gg) for custom support.
 :::
 
 ## Reading the current placement
